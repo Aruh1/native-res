@@ -1,194 +1,234 @@
 [
-    {
-        "title": "Ameku Takao no Suiri Karte",
-        "mal_url": "https://myanimelist.net/anime/58600",
-        "resolution": "?",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "Full turu bos"
-    },
-    {
-        "title": "Around 40 Otoko no Isekai Tsuuhan",
-        "mal_url": "https://myanimelist.net/anime/59561",
-        "resolution": "?",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "[BanG Dream! Ave Mujica](https://myanimelist.net/anime/56653) | 806p (Bilinear?) | Iya | [Link](https://slow.pics/c/WN3Lv3yz?image-fit=none) | Antara bisa Bicubic(b=0, c=0.4) atau Bilinear, pick your poison."
-    },
-    {
-        "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
-        "mal_url": "https://myanimelist.net/anime/59135",
-        "resolution": "?",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "random"
-    },
-    {
-        "title": "Douse, Koishite Shimaunda.",
-        "mal_url": "https://myanimelist.net/anime/58259",
-        "resolution": "843.75 (Bilinear)",
-        "descaleable": true,
-        "comparison": "https://slow.pics/c/mSRtx0bm?image-fit=none",
-        "notes": "frac"
-    },
-    {
-        "title": "Dr. Stone: Science Future (S4)",
-        "mal_url": "https://myanimelist.net/anime/57592",
-        "resolution": "810p (Bilinear)",
-        "descaleable": true,
-        "comparison": "https://slow.pics/c/PAEpZsdP?image-fit=none",
-        "notes": "Beberapa scene tidak dapat descale"
-    },
-    {
-        "title": "Fate/strange Fake",
-        "mal_url": "https://myanimelist.net/anime/55830",
-        "resolution": "~900p",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "A-1 standar"
-    },
-    {
-        "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
-        "mal_url": "https://myanimelist.net/anime/59144",
-        "resolution": "900p (Bilinear)",
-        "descaleable": true,
-        "comparison": "https://slow.pics/c/zDM7fMUt?image-fit=none",
-        "notes": "int"
-    },
-    {
-        "title": "Grisaia Phantom Trigger",
-        "mal_url": "https://myanimelist.net/anime/51119",
-        "resolution": "1080p(?)",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "Pretty gud, but be careful"
-    },
-    {
-        "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
-        "mal_url": "https://myanimelist.net/anime/55997",
-        "resolution": "?",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "[Hana wa Saku, Shura no Gotoku](https://myanimelist.net/anime/59055) | 843.75 | Iya* | [Link](https://slow.pics/c/tticb0RJ?image-fit=none) | Shift setiap scene dan setiap frame"
-    },
-    {
-        "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
-        "mal_url": "https://myanimelist.net/anime/59002",
-        "resolution": "~955.75 (BicubicSharp)",
-        "descaleable": true,
-        "comparison": "https://slow.pics/c/m65vu20e",
-        "notes": "frac, be careful, karena ada beberapa reso native 1080p"
-    },
-    {
-        "title": "Honey Lemon Soda",
-        "mal_url": "https://myanimelist.net/anime/58271",
-        "resolution": "~900p",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "looks good"
-    },
-    {
-        "title": "Izure Saikyou no Renkinjutsushi?",
-        "mal_url": "https://myanimelist.net/anime/58822",
-        "resolution": "~871",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "[Jibaku Shounen Hanako-kun 2](https://myanimelist.net/anime/53924) | 918 (Bilinear) | Iya | [Link](https://slow.pics/c/YSLcA7Xr?image-fit=none) | int"
-    },
-    {
-        "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-        "mal_url": "https://myanimelist.net/anime/57616",
-        "resolution": "~878",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "Padahal Grisaia native 1080p"
-    },
-    {
-        "title": "Kisaki Kyouiku kara Nigetai Watashi",
-        "mal_url": "https://myanimelist.net/anime/57050",
-        "resolution": "947.4 (Bilinear)",
-        "descaleable": true,
-        "comparison": "https://slow.pics/c/KLVSNRxU?image-fit=none",
-        "notes": "frac"
-    },
-    {
-        "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-        "mal_url": "https://myanimelist.net/anime/58853",
-        "resolution": "870p (Bilinear)",
-        "descaleable": true,
-        "comparison": "https://slow.pics/c/gJS8vMBz?image-fit=none",
-        "notes": "Butuh menghilangkan Bilinear border"
-    },
-    {
-        "title": "Kusuriya no Hitorigoto",
-        "mal_url": "https://myanimelist.net/anime/58514",
-        "resolution": "955.75 (Bicubic(0,0.5))",
-        "descaleable": false,
-        "comparison": "https://slow.pics/c/3fBEvbrs?image-fit=none",
-        "notes": "fractional tiap frame berubah, dan menggunakan Catrom atau Bicubic(b=0, c=0.5)"
-    },
-    {
-        "title": "Magic Maker: Isekai Mahou no Tsukurikata",
-        "mal_url": "https://myanimelist.net/anime/59265",
-        "resolution": "~915p",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "[Mahoutsukai no Yakusoku](https://myanimelist.net/anime/57152) | 864p (Bilinear) | Iya | [Link](https://slow.pics/c/d5q1DQxx?image-fit=none) | int"
-    },
-    {
-        "title": "Medalist",
-        "mal_url": "https://myanimelist.net/anime/55318",
-        "resolution": "1080p?",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "Pretty gud, but be careful"
-    },
-    {
-        "title": "Momentary Lily",
-        "mal_url": "https://myanimelist.net/anime/58739",
-        "resolution": "??",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "no comment"
-    },
-    {
-        "title": "Nihon e Youkoso Elf-san.",
-        "mal_url": "https://myanimelist.net/anime/57648",
-        "resolution": "~844",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "Sourcenya terlalu blur"
-    },
-    {
-        "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
-        "mal_url": "https://myanimelist.net/anime/58473",
-        "resolution": "~844",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "[Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac"
-    },
-    {
-        "title": "Unnamed Memory S2",
-        "mal_url": "https://myanimelist.net/anime/59142",
-        "resolution": "1080?",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "But be careful"
-    },
-    {
-        "title": "Watashi no Shiawase na Kekkon S2",
-        "mal_url": "https://myanimelist.net/anime/56701",
-        "resolution": "843.75 (??)",
-        "descaleable": false,
-        "comparison": "",
-        "notes": "Starved parah, jika kamu bisa menghandle wobble, everything is simple."
-    },
-    {
-        "title": "Übel Blatt",
-        "mal_url": "https://myanimelist.net/anime/58216",
-        "resolution": "~968",
-        "descaleable": false,
-        "comparison": "",
-        "notes": ""
-    }
+  {
+    "title": "Ameku Takao no Suiri Karte",
+    "mal_url": "https://myanimelist.net/anime/58600",
+    "resolution": "?",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "Full turu bos"
+  },
+  {
+    "title": "Around 40 Otoko no Isekai Tsuuhan",
+    "mal_url": "https://myanimelist.net/anime/59561",
+    "resolution": "?",
+    "descaleable": false,
+    "comparison": "",
+    "notes": ""
+  },
+  {
+    "title": "BanG Dream! Ave Mujica",
+    "mal_url": "https://myanimelist.net/anime/56653",
+    "resolution": "806p (Bilinear?)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/WN3Lv3yz?image-fit=none",
+    "notes": "Antara bisa Bicubic(b=0, c=0.4) atau Bilinear, pick your poison."
+  },
+  {
+    "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+    "mal_url": "https://myanimelist.net/anime/59135",
+    "resolution": "?",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "random"
+  },
+  {
+    "title": "Douse, Koishite Shimaunda.",
+    "mal_url": "https://myanimelist.net/anime/58259",
+    "resolution": "843.75 (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/mSRtx0bm?image-fit=none",
+    "notes": "frac"
+  },
+  {
+    "title": "Dr. Stone: Science Future (S4)",
+    "mal_url": "https://myanimelist.net/anime/57592",
+    "resolution": "810p (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/PAEpZsdP?image-fit=none",
+    "notes": "Beberapa scene tidak dapat descale"
+  },
+  {
+    "title": "Fate/strange Fake",
+    "mal_url": "https://myanimelist.net/anime/55830",
+    "resolution": "~900p",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "A-1 standar"
+  },
+  {
+    "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+    "mal_url": "https://myanimelist.net/anime/59144",
+    "resolution": "900p (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/zDM7fMUt?image-fit=none",
+    "notes": "int"
+  },
+  {
+    "title": "Grisaia Phantom Trigger",
+    "mal_url": "https://myanimelist.net/anime/51119",
+    "resolution": "1080p(?)",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "Pretty gud, but be careful"
+  },
+  {
+    "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+    "mal_url": "https://myanimelist.net/anime/55997",
+    "resolution": "?",
+    "descaleable": false,
+    "comparison": "",
+    "notes": ""
+  },
+  {
+    "title": "Hana wa Saku, Shura no Gotoku",
+    "mal_url": "https://myanimelist.net/anime/59055",
+    "resolution": "843.75",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/tticb0RJ?image-fit=none",
+    "notes": "Shift setiap scene dan setiap frame"
+  },
+  {
+    "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+    "mal_url": "https://myanimelist.net/anime/59002",
+    "resolution": "~955.75 (BicubicSharp)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/m65vu20e",
+    "notes": "frac, be careful, karena ada beberapa reso native 1080p"
+  },
+  {
+    "title": "Honey Lemon Soda",
+    "mal_url": "https://myanimelist.net/anime/58271",
+    "resolution": "~900p",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "looks good"
+  },
+  {
+    "title": "Izure Saikyou no Renkinjutsushi?",
+    "mal_url": "https://myanimelist.net/anime/58822",
+    "resolution": "~871",
+    "descaleable": false,
+    "comparison": "",
+    "notes": ""
+  },
+  {
+    "title": "Jibaku Shounen Hanako-kun 2",
+    "mal_url": "https://myanimelist.net/anime/53924",
+    "resolution": "918 (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/YSLcA7Xr?image-fit=none",
+    "notes": "int"
+  },
+  {
+    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    "mal_url": "https://myanimelist.net/anime/57616",
+    "resolution": "~878",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "Padahal Grisaia native 1080p"
+  },
+  {
+    "title": "Kisaki Kyouiku kara Nigetai Watashi",
+    "mal_url": "https://myanimelist.net/anime/57050",
+    "resolution": "947.4 (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/KLVSNRxU?image-fit=none",
+    "notes": "frac"
+  },
+  {
+    "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+    "mal_url": "https://myanimelist.net/anime/58853",
+    "resolution": "870p (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/gJS8vMBz?image-fit=none",
+    "notes": "Butuh menghilangkan Bilinear border"
+  },
+  {
+    "title": "Kusuriya no Hitorigoto",
+    "mal_url": "https://myanimelist.net/anime/58514",
+    "resolution": "955.75 (Bicubic(0,0.5))",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/3fBEvbrs?image-fit=none",
+    "notes": "fractional tiap frame berubah, dan menggunakan Catrom atau Bicubic(b=0, c=0.5)"
+  },
+  {
+    "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "mal_url": "https://myanimelist.net/anime/59265",
+    "resolution": "~915p",
+    "descaleable": false,
+    "comparison": "",
+    "notes": ""
+  },
+  {
+    "title": "Mahoutsukai no Yakusoku",
+    "mal_url": "https://myanimelist.net/anime/57152",
+    "resolution": "864p (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/d5q1DQxx?image-fit=none",
+    "notes": "int"
+  },
+  {
+    "title": "Medalist",
+    "mal_url": "https://myanimelist.net/anime/55318",
+    "resolution": "1080p?",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "Pretty gud, but be careful"
+  },
+  {
+    "title": "Momentary Lily",
+    "mal_url": "https://myanimelist.net/anime/58739",
+    "resolution": "??",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "no comment"
+  },
+  {
+    "title": "Nihon e Youkoso Elf-san.",
+    "mal_url": "https://myanimelist.net/anime/57648",
+    "resolution": "~844",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "Sourcenya terlalu blur"
+  },
+  {
+    "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+    "mal_url": "https://myanimelist.net/anime/58473",
+    "resolution": "~844",
+    "descaleable": false,
+    "comparison": "",
+    "notes": ""
+  },
+  {
+    "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "mal_url": "https://myanimelist.net/anime/59349",
+    "resolution": "881.65 (Bilinear)",
+    "descaleable": true,
+    "comparison": "https://slow.pics/c/aH7DZeOf",
+    "notes": "frac"
+  },
+  {
+    "title": "Unnamed Memory S2",
+    "mal_url": "https://myanimelist.net/anime/59142",
+    "resolution": "1080?",
+    "descaleable": false,
+    "comparison": "",
+    "notes": "But be careful"
+  },
+  {
+    "title": "Watashi no Shiawase na Kekkon S2",
+    "mal_url": "https://myanimelist.net/anime/56701",
+    "resolution": "843.75 (??)",
+    "descaleable": true,
+    "comparison": "",
+    "notes": "Starved parah, jika kamu bisa menghandle wobble, everything is simple."
+  },
+  {
+    "title": "Übel Blatt",
+    "mal_url": "https://myanimelist.net/anime/58216",
+    "resolution": "~968",
+    "descaleable": false,
+    "comparison": "",
+    "notes": ""
+  }
 ]

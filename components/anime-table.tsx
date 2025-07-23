@@ -1,6 +1,7 @@
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import { AnimeData } from "@/types/anime";
+import ReactMarkdown from 'react-markdown';
 
 interface AnimeTableProps {
     animeList: AnimeData[];
@@ -58,7 +59,9 @@ export function AnimeTable({ animeList }: AnimeTableProps) {
                                         </Link>
                                     )}
                                 </td>
-                                <td className="p-4 text-muted-foreground">{anime.notes}</td>
+                                <td className="p-4 text-muted-foreground prose dark:prose-invert max-w-none prose-sm">
+                                    <ReactMarkdown>{anime.notes}</ReactMarkdown>
+                                </td>
                             </tr>
                         ))}
                     </tbody>
