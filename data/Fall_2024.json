@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Acro Trip",
+        "mal_url": "https://myanimelist.net/anime/53723",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh menghilangkan Bilinear border"
+    },
+    {
+        "title": "Ao no Miburo",
+        "mal_url": "https://myanimelist.net/anime/56647",
+        "resolution": "900 (Bilinear)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/JTLvV8XO",
+        "notes": "Butuh menghilangkan Bilinear border"
+    },
+    {
+        "title": "Arifureta Shokugyou de Sekai Saikyou S3",
+        "mal_url": "https://myanimelist.net/anime/52995",
+        "resolution": "~810",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Dandadan](https://myanimelist.net/anime/57334) | ~882 | Tidak | | Sourcenya bagus ...."
+    },
+    {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+        "mal_url": "https://myanimelist.net/anime/57066",
+        "resolution": "900 (AdobeBicubic)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/nSfE4d9K",
+        "notes": "int, menggunakan Bicubic(0, 0.75)"
+    },
+    {
+        "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+        "mal_url": "https://myanimelist.net/anime/56843",
+        "resolution": "843.75 (Bilinear)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/2TolRoL2",
+        "notes": "frac"
+    },
+    {
+        "title": "Hitoribocchi no Isekai Kouryaku",
+        "mal_url": "https://myanimelist.net/anime/57891",
+        "resolution": "~882",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Kabushikigaisha Magi-Lumière](https://myanimelist.net/anime/57360) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/oQ4bls03?image-fit=none) | (BD Testing) Beberapa scene tidak bisa descale"
+    },
+    {
+        "title": "Kamierabi S2",
+        "mal_url": "https://myanimelist.net/anime/56967",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Kekkon suru tte, Hontou desu ka](https://myanimelist.net/anime/55887) | ~844 | Tidak | |"
+    },
+    {
+        "title": "Kimi wa Meido-sama.",
+        "mal_url": "https://myanimelist.net/anime/57611",
+        "resolution": "844 (AdobeBicubic)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/olri7GrP",
+        "notes": "1500, dengan menggunakan Bicubic(0, 0.75)"
+    },
+    {
+        "title": "Kinoko Inu",
+        "mal_url": "https://myanimelist.net/anime/58854",
+        "resolution": "842.4 (Lanczos taps2)",
+        "descaleable": false,
+        "comparison": "https://slow.pics/c/ez9TLY9b",
+        "notes": "Sedikit miss dibagian lineart, mungkin kalian bisa tes sendiri (?)"
+    },
+    {
+        "title": "Love Live! Superstar!! S3",
+        "mal_url": "https://myanimelist.net/anime/53287",
+        "resolution": "~831",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "Banzai"
+    },
+    {
+        "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+        "mal_url": "https://myanimelist.net/anime/58173",
+        "resolution": "~900",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "Mungkin kalian bisa tes sendiri (?)"
+    },
+    {
+        "title": "Maou-sama, Retry! R",
+        "mal_url": "https://myanimelist.net/anime/56400",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "/shrug"
+    },
+    {
+        "title": "Mecha-ude",
+        "mal_url": "https://myanimelist.net/anime/53033",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "random"
+    },
+    {
+        "title": "Nageki no Bourei wa Intai shitai",
+        "mal_url": "https://myanimelist.net/anime/58172",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823) | 720 (Bilinear) | Iya | [Link](https://slow.pics/c/y7uZXmvw) | int"
+    },
+    {
+        "title": "NegaPosi Angler",
+        "mal_url": "https://myanimelist.net/anime/59425",
+        "resolution": "Mix 720, 810, dan Mappa res",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "Terlalu random"
+    },
+    {
+        "title": "Puniru wa Kawaii Slime",
+        "mal_url": "https://myanimelist.net/anime/57517",
+        "resolution": "~844",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac"
+    },
+    {
+        "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+        "mal_url": "https://myanimelist.net/anime/56228",
+        "resolution": "900 (Bilinear)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/f76wo6D7",
+        "notes": "Butuh menghilangkan Bilinear border"
+    },
+    {
+        "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+        "mal_url": "https://myanimelist.net/anime/58714",
+        "resolution": "844 (AdobeBicubic)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/BFSh9FJa",
+        "notes": "int, menggunakan Bicubic(0, 0.75)"
+    },
+    {
+        "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+        "mal_url": "https://myanimelist.net/anime/58445",
+        "resolution": "871 (Bilinear)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/zjsgvykC",
+        "notes": "Dengan width 1548.44"
+    },
+    {
+        "title": "Seirei Gensouki S2",
+        "mal_url": "https://myanimelist.net/anime/50306",
+        "resolution": "~844",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Shin Tennis no Oujisama: U-17 World Cup Semifinal](https://myanimelist.net/anime/55570) | ? | Tidak | |"
+    },
+    {
+        "title": "Sword Art Online Alternative: Gun Gale Online II",
+        "mal_url": "https://myanimelist.net/anime/55994",
+        "resolution": "~900",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "A-1 standar"
+    },
+    {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
+        "mal_url": "https://myanimelist.net/anime/59131",
+        "resolution": "955.75 (Bilinear)",
+        "descaleable": true,
+        "comparison": "https://slow.pics/c/1cSgIsGP",
+        "notes": "Sama seperti S1"
+    },
+    {
+        "title": "The iDOLM@STER Shiny Colors S2",
+        "mal_url": "https://myanimelist.net/anime/58302",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Trillion Game](https://myanimelist.net/anime/56662) | ~896 | Tidak | |"
+    },
+    {
+        "title": "Tsuma, Shougakusei ni Naru.",
+        "mal_url": "https://myanimelist.net/anime/54726",
+        "resolution": "~864",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "[Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY"
+    },
+    {
+        "title": "Youkai Gakkou no Sensei Hajimemashita!",
+        "mal_url": "https://myanimelist.net/anime/57533",
+        "resolution": "?",
+        "descaleable": false,
+        "comparison": "",
+        "notes": "Guds"
+    }
+]
