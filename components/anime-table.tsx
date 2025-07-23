@@ -16,7 +16,7 @@ export function AnimeTable({ animeList }: AnimeTableProps) {
                         <tr className="bg-muted border-b">
                             <th className="text-left p-4 font-medium">Title</th>
                             <th className="text-left p-4 font-medium">Resolution/Kernel</th>
-                            <th className="text-left p-4 font-medium w-24">Descaleable</th>
+                            <th className="text-left p-4 font-medium w-24">Descaleable(?)</th>
                             <th className="text-left p-4 font-medium w-28">Comparison</th>
                             <th className="text-left p-4 font-medium">Notes</th>
                         </tr>
@@ -45,7 +45,7 @@ export function AnimeTable({ animeList }: AnimeTableProps) {
                                                 : "bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-100"
                                         )}
                                     >
-                                        {anime.descaleable ? "Yes" : "No"}
+                                        {anime.descaleable ? "Iya" : "Tidak"}
                                     </span>
                                 </td>
                                 <td className="p-4">
